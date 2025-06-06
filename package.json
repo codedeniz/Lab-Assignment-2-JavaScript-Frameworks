@@ -1,0 +1,12 @@
+{
+  "name": "lab2-js-frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Gokdeniz and Mohammad",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
